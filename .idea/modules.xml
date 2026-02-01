@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NPTEL.iml" filepath="$PROJECT_DIR$/.idea/NPTEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NPTEL_Assignments_And_Solutions/NPTEL_Assignments_And_Solutions.iml" filepath="$PROJECT_DIR$/NPTEL_Assignments_And_Solutions/NPTEL_Assignments_And_Solutions.iml" />
+    </modules>
+  </component>
+</project>
