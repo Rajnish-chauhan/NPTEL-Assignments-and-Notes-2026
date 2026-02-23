@@ -3,7 +3,7 @@ package assignment_5;
 interface Demo{
     void Display();
 }
-class  Test implements  Demo{
+class  Test1 implements  Demo{
     @Override
     public void Display() {
         System.out.println("Hello, NPTEL!");
@@ -12,7 +12,7 @@ class  Test implements  Demo{
 
 public  class Qus4 {
     public static void main(String[] args) {
-        Test obj=new Test();
+        Test1 obj=new Test1();
         obj.Display();
     }
 }
